@@ -1,4 +1,4 @@
-﻿
+
 using MainProject;
 
 int option = 0, copyIndex = 0, index = 0, computerCounter = 0, sn = 0;
